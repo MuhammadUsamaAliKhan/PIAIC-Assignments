@@ -1,0 +1,6 @@
+Name: 	Muhammad Usama Ali Khan
+Batch:	7
+Roll No:	PIAIC137477
+
+Assignment # 01
+https://github.com/MuhammadUsamaAliKhan/PIAIC-Assignments/blob/master/Q2_Assignment1.ipynb
